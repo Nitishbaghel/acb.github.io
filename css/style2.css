@@ -1,0 +1,19 @@
+p {
+  font-weight: bold;
+}
+
+li:first-child {
+  border: 2px solid orange;
+}
+li:nth-child(2n+1)
+{
+  color: blue;
+}
+h3::before{
+  content: 'this is before';
+  color:rgb(81, 255, 0);
+}
+h3::after{
+  content: 'this is after';
+  color:rgb(81, 255, 0);
+}

@@ -1,0 +1,21 @@
+h1{
+    color:rgb(0, 30, 255);
+}
+strong{
+    text-align:center;
+    text-size-adjust: 800;
+    color:brown;
+}
+
+thead{
+    text-align: center;
+
+}
+tbody{
+    text-align: left;
+
+    
+}
+tfoot{
+    text-align: left;
+}

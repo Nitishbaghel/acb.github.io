@@ -1,0 +1,48 @@
+section{
+   /*background-color: aqua;*/
+   /* height: 200vh;
+    width: 50vw;*/
+    border:2px solid black;
+    margin: 5px ;
+}
+h2{
+    text-align: center;
+
+}
+@media screen and(max_width:720px) {
+    h1{
+        font-size: 3rem;
+    }
+    section{
+        background-color: aqua;
+    }
+    
+}
+@media screen and(min_width:423px) {
+    h1{
+        font-size: 1.8rem;
+    }
+    section{
+        background-color:rgb(0, 255, 72);
+    }
+    
+}
+/*@media screen and (min_width:423px) and(max_width:720px) {
+    h1{
+        font-size: 2rem;
+    }
+    section{
+        background-color: aqua;
+    }
+    
+}
+@media screen and(max_width:720px) ,(orientation:landscape)
+{
+    h1{
+        font-size: 3rem;
+    }
+    section{
+        background-color: aqua;
+    }
+    
+}*/

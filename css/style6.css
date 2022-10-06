@@ -1,0 +1,18 @@
+section{
+    height:200px;
+    width:20v;
+    border:2px solid black;
+    margin:50px;
+    overflow:scroll;
+}
+li{
+    border:2px solid black;
+    margin:2px
+    width: 400px
+}
+img{
+    padding-left: 10px;
+    border: 2px solid black;
+    padding: 4px;
+    border-radius: 70px 70px 70px 70px;
+}
